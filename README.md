@@ -1,0 +1,1 @@
+# JS30_KONAMI_Code_12
